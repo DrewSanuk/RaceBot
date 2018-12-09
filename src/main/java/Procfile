@@ -1,0 +1,1 @@
+worker: java ./target/classes/App.java
